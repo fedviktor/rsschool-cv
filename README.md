@@ -1,3 +1,3 @@
 # rsschool-cv
 
-# https://fedviktor.github.io/rsschol-cv/cv
+# https://fedviktor.github.io/rsschool-cv/cv

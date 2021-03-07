@@ -1,0 +1,45 @@
+.avatar{
+    width: 120px;
+    height: 150px;
+    
+}
+.header{
+  justify-content: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  position: fix;
+  text-align: center;
+  width: 90%;
+  height: 90%;
+  background-color: rgb(151, 136, 185);
+}
+.cv{
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    position: fix;
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    background-color: rgb(231, 243, 243);
+}
+h1{
+  padding-left: 50px; 
+}
+.footer{
+  justify-content: right;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  position: fix;
+   text-align: right; 
+  width: 90%;
+  height: 90%;
+  background-color: rgb(74, 91, 247);
+}
+
+li{
+  text-align: justify;  
+}

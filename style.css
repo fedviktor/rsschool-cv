@@ -29,12 +29,13 @@ h1{
   padding-left: 50px; 
 }
 .footer{
-  justify-content: right;
+  justify-content: left;
   display: flex;
+  padding-left: 150px;
   margin-left: auto;
   margin-right: auto;
   position: fix;
-   text-align: right; 
+   text-align: auto; 
   width: 90%;
   height: 90%;
   background-color: rgb(74, 91, 247);

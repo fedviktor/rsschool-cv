@@ -1,7 +1,6 @@
 .avatar{
     width: 120px;
-    height: 150px;
-    
+    height: 150px;    
 }
 .header{
   justify-content: center;
@@ -28,7 +27,6 @@
 h1{
   padding-left: 50px; 
 }
-
 .footer{
   justify-content: left;
   display: flex;
@@ -41,7 +39,6 @@ h1{
   height: 90%;
   background-color: rgb(74, 91, 247);
 }
-
 li{
   text-align: justify;  
 }
